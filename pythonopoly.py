@@ -187,7 +187,7 @@ while True:
 
         if ch_spin == 5:
           ch_lottery = random.randint(1,1000) - 50
-          if ch_lotter < 1:
+          if ch_lottery < 1:
             lottery = 0
 
           money[x] = money[x] + ch_lottery
