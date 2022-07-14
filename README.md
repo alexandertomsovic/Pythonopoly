@@ -1,4 +1,4 @@
-# pythonopoly
+# Pythonopoly
 A monopoly game made with python. Hope you enjoy!
 
 Update Log: (3/24/22)
